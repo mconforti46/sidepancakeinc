@@ -1,0 +1,82 @@
+html,body {
+	font-family: 'Caveat Brush', cursive;
+	background: url(https://images.unsplash.com/photo-1517867065801-e20f409696b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+	color: white
+}
+
+hr {
+	border: 1px solid rgb(44, 36, 77);
+	max-width: 450px;
+}
+
+
+.navbar{
+	background-color: rgba(124, 131, 175, .5);
+}
+
+.registrationcard {
+	background-color: rgba(124, 131, 175, 0);
+}
+
+
+
+.divider-text {
+	text-align: center;
+}
+
+.simple {
+	background-color: rgba(124,131,175,.1);
+}
+
+.col{
+	margin-top: 30px;
+	margin-right: 50px;
+	margin-bottom: 25px;
+	text-align: center;
+	}
+
+.card {
+	color: white;
+	background-color: rgba(65, 58, 94, .6);
+
+}
+.card-title {
+	text-decoration: underline;
+}
+
+.btn {
+	color:white;
+	border-radius: 50px;
+	border: 2px solid rgb(44, 36, 77);
+	background-color: rgb(44, 36, 77);
+}
+ .btn:hover {
+ 	background-color: #756F8E;
+ 	border-color: #756F8E;
+ }
+.btn-xl {
+	padding: 0rem 3rem;
+}
+/*
+.imgcontainer{
+	display: flex;
+	justify-content: center;
+}
+*/
+/*img {
+	opacity: .7;
+	margin: 75px;
+	transition: all .5s;
+	box-shadow: 4px 4px 5px 10px;
+}
+
+img:hover {
+	transform: scale(1.1);
+}*/
